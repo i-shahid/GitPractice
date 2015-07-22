@@ -1,1 +1,2 @@
-File cread by Ward for testing. 2
+this is a text file
+adding a new line of text
